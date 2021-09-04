@@ -8,7 +8,7 @@ My lightweight game/rendering engine supports:
 * Position/rotation/scale transformations
 * Camera movement
 * Line ray-tracing
-![Start][screenshots/start.PNG]
+![Start](screenshots/start.PNG)
 
 Moves are clearly shown after clicking a piece:
-![Moves][screenshots/moves.PNG]
+![Moves](screenshots/moves.PNG)
